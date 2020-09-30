@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="931" height="502.019" viewBox="0 0 931 502.019">
+  <g id="Grupo_16845" data-name="Grupo 16845" transform="translate(270.078 39.259)">
+    <line id="Línea_503" data-name="Línea 503" x1="208.277" y1="152.477" transform="translate(275.32 186.38)" fill="none" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Línea_504" data-name="Línea 504" x2="290.679" transform="translate(281.808 188.326)" fill="none" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Trazado_28653" data-name="Trazado 28653" d="M141.5,435.428,306.3,412.07,426.339,311.5V500.311" transform="translate(-144.531 -123.174)" fill="none" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Línea_505" data-name="Línea 505" y1="150.53" x2="151.179" transform="translate(275.32 37.796)" fill="none" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Trazado_28654" data-name="Trazado 28654" d="M-144,264.242H319.918L186.907,176H41.567" transform="translate(-44.274 -75.591)" fill="none" stroke="#c8c8c8" stroke-miterlimit="10" stroke-width="5"/>
+    <g id="Grupo_16833" data-name="Grupo 16833" transform="translate(336.585 -39.259)">
+      <circle id="Elipse_1124" data-name="Elipse 1124" cx="81.494" cy="81.494" r="81.494" fill="#ffd664"/>
+    </g>
+    <g id="Grupo_16834" data-name="Grupo 16834" transform="translate(-84.51 19.136)">
+      <circle id="Elipse_1125" data-name="Elipse 1125" cx="81.494" cy="81.494" r="81.494" transform="translate(0)" fill="#3ababa"/>
+    </g>
+    <g id="Grupo_16835" data-name="Grupo 16835" transform="translate(-84.51 230.715)">
+      <circle id="Elipse_1126" data-name="Elipse 1126" cx="81.494" cy="81.494" r="81.494" transform="translate(0)" fill="#ffd664"/>
+    </g>
+    <text id="dimensiones_éticas" data-name="dimensiones
+éticas" transform="translate(-4.656 95.623)" fill="#1a3151" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-60.177" y="0">dimensiones</tspan><tspan x="-27.98" y="19">éticas</tspan></text>
+    <g id="Grupo_16836" data-name="Grupo 16836" transform="translate(195.992 106.865)">
+      <circle id="Elipse_1127" data-name="Elipse 1127" cx="79.533" cy="79.533" r="79.533" fill="#3ababa"/>
+    </g>
+    <g id="Grupo_16837" data-name="Grupo 16837" transform="translate(100.978 58.405)">
+      <circle id="Elipse_1128" data-name="Elipse 1128" cx="47.105" cy="47.105" r="47.105" transform="translate(0 0)" fill="#145566"/>
+    </g>
+    <g id="Grupo_16838" data-name="Grupo 16838" transform="translate(114.444 241.53)">
+      <circle id="Elipse_1129" data-name="Elipse 1129" cx="47.105" cy="47.105" r="47.105" fill="#ffd664"/>
+    </g>
+    <g id="Grupo_16839" data-name="Grupo 16839" transform="translate(369.945 225.425)">
+      <circle id="Elipse_1130" data-name="Elipse 1130" cx="80.176" cy="80.176" r="80.176" transform="translate(0 113.386) rotate(-45)" fill="#1a3151"/>
+    </g>
+    <g id="Grupo_16840" data-name="Grupo 16840" transform="translate(484.239 97.892)">
+      <circle id="Elipse_1131" data-name="Elipse 1131" cx="62.467" cy="62.467" r="62.467" transform="translate(0 88.342) rotate(-45)" fill="#3ababa"/>
+    </g>
+    <text id="productivas" transform="translate(217.914 191.124)" fill="#1a3151" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">productivas</tspan></text>
+    <text id="género" transform="translate(114.243 109.236)" fill="#ffd664" font-size="18" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">género</tspan></text>
+    <g id="Grupo_16841" data-name="Grupo 16841" transform="translate(200.25 299.772)">
+      <circle id="Elipse_1132" data-name="Elipse 1132" cx="81.494" cy="81.494" r="81.494" fill="#145566"/>
+    </g>
+    <g id="Grupo_16843" data-name="Grupo 16843" transform="translate(379.575 139.293)">
+      <g id="Grupo_16842" data-name="Grupo 16842">
+        <circle id="Elipse_1133" data-name="Elipse 1133" cx="47.105" cy="47.105" r="47.105" fill="#1a3151"/>
+      </g>
+      <text id="etnia" transform="translate(21.885 51.831)" fill="#ffd664" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">etnia</tspan></text>
+    </g>
+    <text id="edad" transform="translate(137.603 292.361)" fill="#1a3151" font-size="18" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">edad</tspan></text>
+    <text id="ambiente_global" data-name="ambiente
+global" transform="translate(568.864 180.228)" fill="#1a3151" font-size="18" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-43.172" y="0">ambiente</tspan><tspan x="-27.281" y="18">global</tspan></text>
+    <text id="dimensiones_sociales" data-name="dimensiones
+sociales" transform="translate(481.692 333.805)" fill="#ffd664" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-60.177" y="0">dimensiones</tspan><tspan x="-37.36" y="19">sociales</tspan></text>
+    <text id="dimensiones_económicas" data-name="dimensiones
+económicas" transform="translate(416.439 37.228)" fill="#1a3151" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-60.177" y="0">dimensiones</tspan><tspan x="-56.077" y="19">económicas</tspan></text>
+    <text id="dimensiones_ambientales" data-name="dimensiones
+ambientales" transform="translate(-4.656 307.203)" fill="#1a3151" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-60.177" y="0">dimensiones</tspan><tspan x="-58.93" y="19">ambientales</tspan></text>
+    <g id="Grupo_16844" data-name="Grupo 16844" transform="translate(-270.078 106.865)">
+      <circle id="Elipse_1134" data-name="Elipse 1134" cx="81.494" cy="81.494" r="81.494" fill="#1a3151"/>
+    </g>
+    <text id="dimensiones_culturales" data-name="dimensiones
+culturales" transform="translate(-190.224 183.352)" fill="#ffd664" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-60.177" y="0">dimensiones</tspan><tspan x="-47.491" y="19">culturales</tspan></text>
+    <text id="dimensiones_políticas" data-name="dimensiones
+políticas" transform="translate(280.104 376.26)" fill="#ffd664" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-60.177" y="0">dimensiones</tspan><tspan x="-40.06" y="19">políticas</tspan></text>
+  </g>
+</svg>

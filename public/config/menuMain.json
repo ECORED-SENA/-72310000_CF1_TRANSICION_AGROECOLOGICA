@@ -1,0 +1,76 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "tema-1",
+    "title": "1. La agroecología",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/tema-1.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.1 ¿Qué es la agroecología? Pensamiento sistémico, multidimensionalidad y multifuncionalidad de la agroecología.",
+        "anchor": "tema-1_1"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.2 Enfoque territorial y sistemas agroalimentarios",
+        "anchor": "tema-1_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.3 Los 10 elementos de la agroecología propuestos por la FAO",
+        "anchor": "tema-1_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.4 Agroecología y Objetivos de Desarrollo Sostenible (ODS)",
+        "anchor": "tema-1_4"
+      }    
+    ]   
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-2",
+    "title": "2. Prácticas, actores y resiliencia en la agroecología",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/tema-2.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "tema-2",
+        "title": "2.1 Agricultura campesina, familiar y comunitaria (ACFC)",
+        "anchor": "tema-2_1"
+      },   
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "tema-2",
+        "title": "2.2 Papel de mujer rural, jóvenes y comunidades étnicas.",
+        "anchor": "tema-2_2"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "tema-2",
+        "title": "2.3 Resiliencia y adaptación al cambio climático",
+        "anchor": "tema-2_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "2.4 Pilares de la agroecología ",
+        "anchor": "tema-2_4"
+      }        
+    ]   
+  }
+]
