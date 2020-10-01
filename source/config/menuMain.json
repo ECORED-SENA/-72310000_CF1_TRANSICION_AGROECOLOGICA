@@ -70,7 +70,13 @@
         "slug": "tema-2",
         "title": "2.4 Pilares de la agroecología ",
         "anchor": "tema-2_4"
-      }        
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-2",
+        "title": "2.5 Transición energética, manejo de aguas y residuos sólidos",
+        "anchor": "tema-2_5"
+      }           
     ]   
   }
 ]

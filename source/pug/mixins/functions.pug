@@ -88,6 +88,52 @@ mixin navTemaItem(numero, titulo, ruta)
                     | Ver más
     
     
+mixin navTemaItem(numero, titulo, ruta)
+    li.list-group-item.nav-tema-item
+        .row.align-items-center
+            if numero == 'play'
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
+                            i.fa.fa-play
+            else if numero == 'question'
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
+                            i.fa.fa-question
+            else if numero == 'text'
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
+                            i.fa.fa-file-text-o
+            else if numero == 'folder'
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
+                            i.fa.fa-folder-open
+            else if numero == 'references'
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
+                            i.fa.fa-book
+            else if numero == 'glosary'
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
+                            i.fa.fa-sort-alpha-asc
+            else
+                .col-auto
+                    .avatar.avatar-sm
+                        span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold= numero
+
+            .col.ml-n2
+                span.nav-tema-item__titulo 
+                    a(href= ruta)= titulo
+            .col-auto                                            
+                a(href= ruta).btn.btn-light.nav-tema-item__btn
+                    | Ver más
+    
+    
 mixin creditosFooter(ruta)
     footer#Creditos.footer
         .container
@@ -129,7 +175,7 @@ mixin creditosFooter(ruta)
                         span.text-small Regional Santander    
 
                     p.footer-texto.mb-2
-                        | #[strong Fernando Martínez Rivera]<br/>
+                        | #[strong Cindy Alexandra Córdoba Vargas]<br/>
                         span.text-small Experta tematica <br/>
 
                     p.footer-texto
@@ -168,7 +214,7 @@ mixin creditosFooter(ruta)
 
 
                     p.footer-texto.mb-2
-                        | #[strong AOscar Absalón Guevara]<br/>   
+                        | #[strong Oscar Absalón Guevara]<br/>   
                         span.text-small Evaluador instruccional<br/>
 
                     p.footer-texto
